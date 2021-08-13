@@ -19,7 +19,7 @@
       "applovin_inter": "",
       "applovin_reward": "",
       "interval": 5,
-      "coin_reward": 1000
+      "coin_reward": 0
     }
   ],
   "More":
@@ -30,8 +30,8 @@
   "Categories": [
     ,
     {
-      "name_category": "Waterfall",
-      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      "name_category": "",
+      "image": ""
 
     }
   ],
