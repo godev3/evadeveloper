@@ -1,0 +1,39 @@
+es (33 sloc) 699 Bytes
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "select_backup_ads":"",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "",
+      "admob_rewardid": "",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "mopub_reward": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "applovin_reward": "",
+      "interval": 5,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    
+  ],
+
+  "Data":
+  [
+    
+  ]
+}
