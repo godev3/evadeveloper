@@ -5,8 +5,8 @@
       "select_backup_ads":"",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_interid": "ca-app-pub-2564271635801908/1192844048",
+      "admob_nativeid": "ca-app-pub-2564271635801908/7490303862",
       "admob_openid": "",
       "admob_rewardid": "",
       "startappid": "",
@@ -18,7 +18,7 @@
       "applovin_banner": "",
       "applovin_inter": "",
       "applovin_reward": "",
-      "interval": 5,
+      "interval": 6,
       "coin_reward": 0
     }
   ],
