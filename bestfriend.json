@@ -1,0 +1,39 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "select_backup_ads":"",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-2564271635801908/3795473570",
+      "admob_nativeid": "ca-app-pub-2564271635801908/4506947687",
+      "admob_openid": "",
+      "admob_rewardid": "",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "mopub_reward": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "applovin_reward": "",
+      "interval": 7,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    
+  ],
+
+  "Data":
+  [
+    
+  ]
+}
+
